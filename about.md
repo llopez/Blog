@@ -1,17 +1,15 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
 ---
 
-I’m Luis, a __software developer__ focused on the __open source__. 
+Luis lives in Buenos Aires, Argentina. He studied systems engineering at the University Of La Matanza, and he started his professional career in 2007.
 
-During my career I have been working with several people from whom I learned a lot, working with people is a great way to grow.
+His passion for the technology and how to make use of it in benefit of society keeps him in a continuous state of learning.
 
-I have more than ten years of experience with __Ruby__, I have used __Ruby on Rails__ for more that 8 years, I love __linux__, the __cloud__, __IoT__, the union between the __software__ and the __hardware__.
+In his free time, he chooses spend time at open air. There must be a clear balance between the virtual and the real, he thinks.
 
-I’m truly passionate about what I do and always eager to do it better. 
+In this blog, I will be writing mostly about technology and how to apply it beyond the common problems.
 
-Also I’m always interested in hearing from colleagues, so feel free to contact me if you’d like to connect.
-
-Finally, if you have an idea and you don’t know how to make it real, I will be glad to hear what you have to say.
+I’m always interested in hearing from colleagues, so feel free to contact me if you’d like to connect.
